@@ -38,7 +38,7 @@ Este sitio evolucionará con futuras mejoras, incluyendo:
 Si quieres colaborar o conocer más sobre el proyecto, puedes encontrarme en:
 - ✉️ [Correo Electrónico](MAILTO:cronna2322@gmail.com)
 - 💬 [WhatsApp](https://wa.me/573175403782?)  
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/dannnor/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dannnor/)  
 - 🐙 [GitHub](https://github.com/Cronna-soft/)  
 
 ---
