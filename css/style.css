@@ -62,6 +62,7 @@
 }
 
 .navbar-hero {
+	margin-bottom: 50px;
 	border-radius: 20px;
 	backdrop-filter: blur(10px);
 }
@@ -114,7 +115,8 @@
 /*MENU*/
 .container-menu {
 	display: flex;
-	height: 100vh;
+	min-height: 100vh;
+	height: auto;
 }
 
 .item-container {
