@@ -37,7 +37,7 @@ Este sitio evolucionará con futuras mejoras, incluyendo:
 ### 📩 Contacto
 Si quieres colaborar o conocer más sobre el proyecto, puedes encontrarme en:
 - ✉️ [Correo Electrónico](MAILTO:cronna2322@gmail.com)
-- 💬 [WhatsApp](https://wa.me/573175403782?text=%21Hola%21%20Cronna%20(Daniel Audor)%20quisiera%20hablar%20contigo%20respecto%20a%20un%20proyecto%20de%20software)  
+- 💬 [WhatsApp](https://wa.me/573175403782?)  
 - 🔗 [LinkedIn]((https://www.linkedin.com/in/dannnor/))  
 - 🐙 [GitHub](https://github.com/Cronna-soft/)  
 
