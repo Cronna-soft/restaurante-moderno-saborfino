@@ -2,7 +2,7 @@
 
 Bienvenido a **SaborFino**, una experiencia web diseñada para destacar la sofisticación y la excelencia gastronómica en el mundo digital.
 
-## 🌍 [Visitar Sitio Web](https://cronna-soft.github.io/restaurante-moderno-saborfino/)
+## 🌍 [Visitar Sitio Web](https://proyecto-restaurante-saborfino-2.netlify.app/) en Netlify
 
 ### 📜 Descripción
 **SaborFino** es una **landing page elegante** para restaurantes que buscan una presencia online moderna y atractiva. Desarrollado con tecnologías web fundamentales, el proyecto combina **estructura, estilización y funcionalidad**:
