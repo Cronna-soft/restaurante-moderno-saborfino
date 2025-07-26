@@ -291,7 +291,7 @@
 }
 
 /*FOOTER*/
-footer h3, footer li, footer p, footer span, i {
+footer h3, footer li, footer p, footer span, footer small, i {
 	color: var(--colorPrincipal);
 }
 
@@ -350,18 +350,19 @@ footer h3, footer li, footer p, footer span, i {
 }
 
 .derechos {
-	height: 5vh;
+	height: 100%;
 	text-align: center;
-	line-height: 5vh;
+	line-height: 30px;
 	background-color: black;
+
+	& p {
+		margin-bottom: 0;
+		padding-bottom: 10px;
+	}
+
 }
 
 /*MEDIAQUERY*/
-@media screen and (min-width: 360px) and (max-width: 380px) {
-	.container-menu {
-		height: 130vh;
-	}
-}
 @media screen and (min-width: 500px) {
 	.navbar-hero li {
 		margin: 10px 30px;
@@ -460,18 +461,9 @@ footer h3, footer li, footer p, footer span, i {
 		font-size: 1.6rem;
 	}
 
-	.container-menu {
-		height: 100vh;
-	}
-
-
 	.platillo-item {
 		width: 320px;
 		height: 200px;
-	}
-
-	.container-galeria {
-		height: 110vh;
 	}
 
 	.img-galeria {
@@ -517,10 +509,6 @@ footer h3, footer li, footer p, footer span, i {
 
 	.titulo-galeria, .titulo-reservas {
 		font-size: 3rem;
-	}
-
-	.container-galeria {
-		height: 98.5vh;
 	}
 
 	.form-reservas, .btn-primary {
@@ -580,7 +568,6 @@ footer h3, footer li, footer p, footer span, i {
 	}
 
 	.container-menu {
-		height: 170vh;
 		padding-bottom: 30px;
 	}
 
@@ -609,10 +596,6 @@ footer h3, footer li, footer p, footer span, i {
 		& .descripcion-item, .platillo-item span {
 			font-size: 1rem;
 		}
-	}
-
-	.container-galeria {
-		height: 120vh;
 	}
 
 	.galeria {
@@ -646,15 +629,6 @@ footer h3, footer li, footer p, footer span, i {
 		border-top: 0;
 		width: 40%;
 	}
-
-	@media screen and (min-height: 799px) {
-		.container-menu {
-			height: 125vh;
-		}
-		.container-galeria {
-			height: 110vh;
-		}
-	}
 }
 @media screen and (min-width: 1300px	) {
 	.triple-seccion {
@@ -672,10 +646,6 @@ footer h3, footer li, footer p, footer span, i {
 	}
 	.doble-seccion > section {
 		width: 50%;
-	}
-
-	.doble-seccion div[class*="container-"] {
-		height: 75vh;
 	}
 
 	.container-reservas {
